@@ -1,0 +1,11 @@
+#ignore pycache
+\__mycache__/
+\__pycache__/
+\__init__.cpython-37.pyc
+\settings.cpython-3.12.pyc
+\urls.cpython-3.12.pyc
+\wsgi.cpython-3.12.pyc
+\asgi.cpython-3.12.pyc
+\__init__.cpython-3.12.pyc
+\settings.cpython-3.12.pyc
+\urls.cpython-3.12.pyc

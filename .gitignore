@@ -1,0 +1,14 @@
+# Python cache files
+__mycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py,cover
+*.py[cod]
+*.so
+*.dylib
+
+# my virtualenv
+__env__/
+venv/
+env/
